@@ -21,4 +21,8 @@ export const TrendData=[
         name:'Avengers',
         shares:110,
     },
+    {
+        name:'Aligator',
+        shares:1010,
+    },
 ]
