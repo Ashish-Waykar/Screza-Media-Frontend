@@ -10,7 +10,7 @@ const LogoSearch =()=>{
                 <div className="s-icon">
                     <UilSearch/>
                 </div>
-                <input type="text" placeholder='  #Explore'/>
+                <input type="text" placeholder=' #Explore Screza Network...'/>
             </div>
             <img src={Logo} alt="" width="50px"/>
         </div>
